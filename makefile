@@ -1,2 +1,3 @@
 all:
-	true
+	mkdir -p build
+	echo world > build/hello.txt
