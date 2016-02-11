@@ -1,4 +1,3 @@
 all:
 	mkdir -p build
-	echo world > build/hello.txt
-	false
+	echo world2 > build/hello.txt
