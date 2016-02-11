@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/badboy/test-deployment/issues"
   },
-  "homepage": "https://github.com/badboy/test-deployment#readme"
+  "homepage": "https://github.com/badboy/test-deployment#readme",
+  "dependencies": {
+    "grunt-cli": "^0.1.13"
+  }
 }
